@@ -57,5 +57,10 @@ img,h1,p{
     color:var(--text-color)
 }
 
-.attribution { font-size: 0.8rem; text-align: center; padding:0.5rem; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { 
+    font-size: 0.8rem; 
+    text-align: center; 
+    padding:0.5rem; }
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); }
