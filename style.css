@@ -29,7 +29,7 @@ img{
 }
 
 .card{
-    width:max(25ch, 35ch);
+    width:max(15ch, 32ch);
     text-align: center;
     background-color: var(--main-color);
     padding:1rem;
@@ -50,4 +50,9 @@ font-weight: 600;
 
 img,h1,p{
     margin-bottom: 1rem;
+}
+.card >p{
+    font-size: 1.1rem;
+    font-weight: 400;
+    color:var(--text-color)
 }
